@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethdev&label=Profile%20views&color=0e75b6&style=flat" alt="geethdev" /> </p>
 
 
-
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=geethdev&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
 
 
 
