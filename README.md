@@ -9,6 +9,10 @@
 
 <hr/>
 <br>
-
+<br>
+<p align="center">
+    <a href=""><img src="https://streak-stats.demolab.com?user=geethdev&theme=highcontrast" alt="GitHub Streak" /></a>
+</p>
+<br>
 
 ![snake gif](https://github.com/geethdev/geethdev/blob/output/github-contribution-grid-snake-dark.svg)
